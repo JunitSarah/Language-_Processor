@@ -1,10 +1,7 @@
 # Language Processor
-
 A collection of compiler and language processing tools implemented in **C**, **Lex**, and **Yacc**.
 
-
 ## Overview
-
 This repository contains modular implementations of the core phases of a compiler/language processor, built as a learning/academic reference.
 
 ## Repository Structure
@@ -23,14 +20,14 @@ Language-_Processor/
 ---
 
 ## Modules
-### 1. Lexical Analyser (`lexicl_analyser/`)
-### 2. Parser (`parser/`)
-### 3. Shift Parser (`shift_parser/`)
-### 4. Lex & Yacc Tool (`lex_yacc_tool/`)
-### 5. If-Else Ladder (`if_else_ladder/`)
-### 6. Three Address Code (`three_address_code/`)
-### 7. Code Optimisation (`codeoptimisation/`)
-### 8. 3AC to 8085 Compiler (`3ac_to_8085 complier/`)
+1. Lexical Analyser (`lexicl_analyser/`)
+2. Parser (`parser/`)
+3. Shift Parser (`shift_parser/`)
+4. Lex & Yacc Tool (`lex_yacc_tool/`)
+5. If-Else Ladder (`if_else_ladder/`)
+6. Three Address Code (`three_address_code/`)
+7. Code Optimisation (`codeoptimisation/`)
+8. 3AC to 8085 Compiler (`3ac_to_8085 complier/`)
 
 
 ## Languages & Tools
